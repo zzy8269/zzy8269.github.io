@@ -2,7 +2,7 @@
 
 #### 代码介绍
 **本仓库代码用于Gitee Pages静态网页**
-首页面为https://html5up.net/  内开源代码修改得来；添加了背景图随机切换功能。访问此静态网页的网址为https://zzy8269.gitee.io/zzy8269.github.io/  
+首页面为https://html5up.net/  内开源代码修改得来；添加了背景图随机切换功能。访问此静态网页的网址为https://zzy8269.github.io/
 
 
 #### 安装教程
